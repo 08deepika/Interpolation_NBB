@@ -10,7 +10,7 @@ This project demonstrates different image resizing techniques and interpolation 
   - Nearest Neighbor Interpolation
   - Bilinear Interpolation
   - Bicubic Interpolation
-  - Lanczos Approximation
+  
 - Comparing the quality of resized images using metrics like:
   - Peak Signal-to-Noise Ratio (PSNR)
   - Structural Similarity Index (SSIM)
